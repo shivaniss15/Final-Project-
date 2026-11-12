@@ -1,4 +1,4 @@
-/* DEVELOPER: Shivani Shelke, IS117-xxx, Fall 2026 */
+/* DEVELOPER: Shivani Shelke, IS117-001, Fall 2026 */
 :root{--navy:#142b4a;--blue:#245b91;--sky:#eaf3fb;--gold:#f2bd55;--ink:#243247}
 *{box-sizing:border-box}html,body{min-height:100%}body{font-family:Arial,Helvetica,sans-serif;color:var(--ink);line-height:1.65;background:#fff}h1,h2,h3,h4{color:var(--navy);line-height:1.2;font-weight:700}h1{letter-spacing:-.025em}a{color:#175b99}a:hover{color:#0d3e6b}
 .site-nav{background:var(--navy);padding:.8rem 0}.navbar-brand{font-size:1.12rem;white-space:normal}.brand-accent{color:#b9d9f4}.site-nav .nav-link{color:#eef6ff!important;font-weight:600;padding:.65rem .8rem!important}.site-nav .nav-link:hover,.site-nav .nav-link:focus{color:var(--gold)!important}.dropdown-menu{border:0;box-shadow:0 12px 28px #10243a22;padding:.45rem}.dropdown-item{padding:.55rem .8rem}
